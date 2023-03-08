@@ -4,9 +4,8 @@ This is a simple iOS app that helps users manage their time using the Pomodoro t
 
 Features include:
 
-Customizable Pomodoro and break durations
-Ability to pause, resume, and reset timers
-Sound and vibration notifications at the end of each Pomodoro and break
-Running tally of completed Pomodoros
-Option to set a daily Pomodoro goal and track progress towards it
-This app was built using Swift and UIKit. No networking capabilities are required, making it a great project for beginners looking to build their iOS development skills. Give it a try and see how much more productive you can be with the Pomodoro technique!
+- Customizable Pomodoro and break durations
+- Ability to pause, resume, and reset timers
+- Sound and vibration notifications at the end of each Pomodoro and break
+- Running tally of completed Pomodoros
+- Option to set a daily Pomodoro goal and track progress towards it
